@@ -1,0 +1,38 @@
+﻿[
+    {
+        "no": 1,
+        "word": "oförrätt",
+        "answers": [
+            "olycksfall",
+            "kränkning",
+            "osanning",
+            "bestraffning",
+            "missbedömning"
+        ],
+        "correct_answer": 2
+    },
+    {
+        "no": 2,
+        "word": "insistera",
+        "answers": [
+            "envisas",
+            "opponera sig",
+            "överbevisa",
+            "låta påskina",
+            "antyda"
+        ],
+        "correct_answer": 1
+    },
+    {
+        "no": 3,
+        "word": "mani",
+        "answers": [
+            "vanesak",
+            "stark rädsla",
+            "inbillningssjuka",
+            "överdrivet intresse",
+            "nedstämdhet"
+        ],
+        "correct_answer": 4
+    }
+]

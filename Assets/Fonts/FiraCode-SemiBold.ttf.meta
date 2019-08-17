@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 45394933ca1ce5727aa5f6166336f0c0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fira Code Light
+  fontNames:
+  - Fira Code Light
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3e8f2f54e027ac361812a6abbb3710fa, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

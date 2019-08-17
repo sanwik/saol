@@ -1,0 +1,42 @@
+﻿{
+    "questions": [
+        {
+            "no": 1,
+            "word1": "ord1",
+            "answers": [
+                "word1",
+                "word2",
+                "word3",
+                "word4",
+                "word5"
+            ],
+            "correct_answer": 1
+        },
+        {
+            "no": 2,
+            "word": "ord2",
+            "answers": [
+                "word1",
+                "word2",
+                "word3",
+                "word4",
+                "word5"
+            ],
+            "correct_answer": 1
+        },
+	{
+            "no": 3,
+            "word": "ord3",
+            "answers": [
+                "word1",
+                "word2",
+                "word3",
+                "word4",
+                "word5"
+            ],
+            "correct_answer": 1
+        }
+
+    ]
+}
+
